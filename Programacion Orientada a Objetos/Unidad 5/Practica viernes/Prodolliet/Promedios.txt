@@ -1,0 +1,4 @@
+ana            15.00          libre
+juan           35.00          libre
+pedro          89.50   promocionado
+luis           39.50          libre

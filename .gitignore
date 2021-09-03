@@ -1,0 +1,16 @@
+#Ejecutables
+*.exe
+
+#Archivos Binarios y de texto
+.dat
+.bin
+.juego
+.eze
+.txt
+
+#Imagenes
+.png
+.jpg
+
+#Otros
+.o

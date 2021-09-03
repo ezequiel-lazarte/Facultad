@@ -1,0 +1,8 @@
+Carmack Juan
+10 9 10
+Gates Guillermo
+6 5 7
+Stallman Ricardo
+7 10 8
+Lazarte Ezequiel
+8 6 9
